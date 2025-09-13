@@ -1,17 +1,24 @@
+# TechFix - Computer Solutions Landing Page
 
+A modern, responsive landing page for **TechFix**, a computer repair and IT support service. This project demonstrates a professional web layout suitable for portfolios or small business websites.
 
-# TechFix - Computer Solutions 💻🔧
+## Features
 
-TechFix is a modern and responsive website designed for computer repair and IT support services.  
-It highlights services such as PC & laptop repair, data recovery, virus removal, and IT support.  
+- **Responsive Design:** Works smoothly on desktop, tablet, and mobile devices.
+- **Hero Section:** Eye-catching hero banner with call-to-action button.
+- **About & Services:** Showcase your business and offerings with structured sections.
+- **Testimonials Carousel:** Swipe through customer feedback with star ratings.
+- **Login/Sign-Up Modal:** Interactive modal for user authentication (mockup).
+- **Contact Section:** Aside-style layout with contact info and form.
+- **Footer:** Includes Privacy Policy & Terms of Service links.
+- **Mobile-Friendly Navigation:** Hamburger menu for smaller screens.
 
-## 🌟 Features
-- Responsive design (works on desktop, tablet, and mobile)
-- Hero section with call-to-action button
-- About Us section describing the company
-- Services section with icons and descriptions
-- Contact form for inquiries
-- Sticky navigation bar with logo
-- Clean and modern UI built with HTML & CSS
+## Technologies Used
 
-## 📂 Project Structure
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome Icons
+
+## Demo
+You can view the live demo here: https://techfixed.netlify.app/
